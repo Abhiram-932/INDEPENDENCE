@@ -20,7 +20,7 @@ setTimeout(() => {
                                         document.getElementById("p").innerHTML=1;
                                         setTimeout(() => {
                                             document.getElementById("p").innerHTML=("Happy Independence Day");
-                                        }, 1000);
+                                        }, );
                                     }, 1000);
                                 }, 1000);
                             }, 1000);
