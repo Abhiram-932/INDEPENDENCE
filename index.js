@@ -1,25 +1,25 @@
 setTimeout(() => {
-    document.getElementById("div").innerText=10;
+    document.getElementById("p").innerText=10;
     setTimeout(() => {
-        document.getElementById("div").innerHTML=9;
+        document.getElementById("p").innerHTML=9;
         setTimeout(() => {
-            document.getElementById("div").innerHTML=8;
+            document.getElementById("p").innerHTML=8;
             setTimeout(() => {
-                document.getElementById("div").innerHTML=7;
+                document.getElementById("p").innerHTML=7;
                 setTimeout(() => {
-                    document.getElementById("div").innerHTML=6;
+                    document.getElementById("p").innerHTML=6;
                     setTimeout(() => {
-                        document.getElementById("div").innerHTML=5;
+                        document.getElementById("p").innerHTML=5;
                         setTimeout(() => {
-                            document.getElementById("div").innerHTML=4;
+                            document.getElementById("p").innerHTML=4;
                             setTimeout(() => {
-                                document.getElementById("div").innerHTML=3;
+                                document.getElementById("p").innerHTML=3;
                                 setTimeout(() => {
-                                    document.getElementById("div").innerHTML=2;
+                                    document.getElementById("p").innerHTML=2;
                                     setTimeout(() => {
-                                        document.getElementById("div").innerHTML=1;
+                                        document.getElementById("p").innerHTML=1;
                                         setTimeout(() => {
-                                            document.getElementById("div").innerHTML=("Happy Independence Day");
+                                            document.getElementById("p").innerHTML=("Happy Independence Day");
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);
